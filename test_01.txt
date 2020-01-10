@@ -1,0 +1,50 @@
+anton@anton-Lenovo-ideapad-320-15IKB:~/OOP/oop_exercise_04/cmake-build-debug$ ./oop_exercise_04 
+enter:
+re - to add rectangle and calculate square and center of rectangle;
+rh - to add rhombus and calculate square and center of rhombus;
+t - to add trapezoid and calculate square and center of trapezoid;
+h - to show this manual;
+e - to finish execution of program.
+re
+0 0 0 3 4 3 4 0
+
+real_rectangle
+coordinates: 0 0  0 3  4 3  4 0 
+square: 12
+center: 2 1.5 
+tuple_rectangle
+coordinates: 0 0 0 3 4 3 4 0 
+square: 12
+center: 2 1.5 
+rh
+3 0 0 6 3 12 6 6
+
+real_rhombus
+coordinates: 3 0  0 6  3 12  6 6 
+square: 36
+center: 3 6 
+tuple_rhombus
+coordinates: 3 0 0 6 3 12 6 6 
+square: 36
+center: 3 6 
+h
+
+enter:
+re - to add rectangle and calculate square and center of rectangle;
+rh - to add rhombus and calculate square and center of rhombus;
+t - to add trapezoid and calculate square and center of trapezoid;
+h - to show this manual;
+e - to finish execution of program.
+t
+0 0 2 3 5 3 6 0
+
+real_trapezoid
+coordinates: 0 0  2 3  5 3  6 0 
+square: 13.5
+center: 3.25 1.5 
+tuple_trapezoid
+coordinates: 0 0 2 3 5 3 6 0 
+square: 13.5
+center: 3.25 1.5 
+e
+anton@anton-Lenovo-ideapad-320-15IKB:~/OOP/oop_exercise_04/cmake-build-debug$
