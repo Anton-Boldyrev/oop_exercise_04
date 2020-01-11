@@ -5,7 +5,6 @@
 #include "template.h"
 #include <string>
 
-
 int main()
 {
 
@@ -47,7 +46,6 @@ int main()
 			print(tuple_rhombus);
 			std::cout << "\nsquare: " << Square(tuple_rhombus);
 			std::cout << "\ncenter: " << center(tuple_rhombus) << "\n";
-
 
 			
 		} else if (cmd == "t") {
