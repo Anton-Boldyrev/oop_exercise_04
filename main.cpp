@@ -5,6 +5,7 @@
 #include "template.h"
 #include <string>
 
+
 int main()
 {
 
@@ -74,8 +75,5 @@ int main()
 				std::cout << "wrong comand, try again\n";
 				continue;
 			}
-
-
 	}
-	
 }
